@@ -1,0 +1,14 @@
+header{
+   width: 100%;
+   grid-area: nav;
+   .navbar{
+    height: 10vh;
+   }
+   .navbar-brand{
+    font-size: $medium;
+    line-height: $spacing-base;
+   }
+   .nav-item{
+    font-size: $base;
+   }
+}
